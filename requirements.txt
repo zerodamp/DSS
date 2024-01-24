@@ -1,4 +1,5 @@
 base64
-opencv-python
-Pillow
-ttkthemes
+Pillow==8.2.0
+opencv-python==4.5.3.56
+ttkthemes==3.0.0
+
