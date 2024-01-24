@@ -1,0 +1,4 @@
+base64
+opencv-python
+Pillow
+ttkthemes
