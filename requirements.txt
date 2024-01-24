@@ -2,4 +2,3 @@ base64
 Pillow
 opencv-python
 ttkthemes
-
